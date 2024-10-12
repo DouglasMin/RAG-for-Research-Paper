@@ -1,0 +1,303 @@
+{
+    "1": [
+        {
+            "element_id": 2,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 89,
+                    "y": 181
+                },
+                {
+                    "x": 482,
+                    "y": 181
+                },
+                {
+                    "x": 482,
+                    "y": 209
+                },
+                {
+                    "x": 89,
+                    "y": 209
+                }
+            ],
+            "text": "<h1 id='2' style='font-size:22px'>WATERBORNE BITUMEN PRICES, FOB</h1>"
+        },
+        {
+            "element_id": 3,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 188,
+                    "y": 220
+                },
+                {
+                    "x": 1119,
+                    "y": 220
+                },
+                {
+                    "x": 1119,
+                    "y": 805
+                },
+                {
+                    "x": 188,
+                    "y": 805
+                }
+            ],
+            "text": "<br><figure><img id='3' style='font-size:14px' alt=\"Rotterdam\n$463/t Italy Baltic\n$455/t $456/t\nGreece\nSpain\n$455/t South Korea\n$460/t\n$400/t\nTaiwan\n$403/t\nIran\n$298/t\nThailand\nBahrain\n$400/t\nIvory Coast $425/t\n$552/t\nSingapore\n$410/t\" data-coord=\"top-left:(188,220); bottom-right:(1119,805)\" /></figure>"
+        },
+        {
+            "element_id": 4,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 91,
+                    "y": 806
+                },
+                {
+                    "x": 251,
+                    "y": 806
+                },
+                {
+                    "x": 251,
+                    "y": 831
+                },
+                {
+                    "x": 91,
+                    "y": 831
+                }
+            ],
+            "text": "CARGO FLOWS"
+        },
+        {
+            "element_id": 5,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 90,
+                    "y": 863
+                },
+                {
+                    "x": 607,
+                    "y": 863
+                },
+                {
+                    "x": 607,
+                    "y": 940
+                },
+                {
+                    "x": 90,
+                    "y": 940
+                }
+            ],
+            "text": "Spanish export cargoes were sent into north African markets\nas well as western Europe, although activity was generally\nslowing across the Mediterranean."
+        },
+        {
+            "element_id": 6,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 89,
+                    "y": 945
+                },
+                {
+                    "x": 602,
+                    "y": 945
+                },
+                {
+                    "x": 602,
+                    "y": 1050
+                },
+                {
+                    "x": 89,
+                    "y": 1050
+                }
+            ],
+            "text": "The 6,118 dwt Ning Hai Wan loaded a cargo from Huelva,\nSpain, for discharge into Donges, France, on 29 September,\nwhile the 5,897 dwt Iver Accord loaded a cargo from La Co-\nruna, Spain, for discharge into Blaye, France, by 2 October."
+        },
+        {
+            "element_id": 7,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 90,
+                    "y": 1052
+                },
+                {
+                    "x": 606,
+                    "y": 1052
+                },
+                {
+                    "x": 606,
+                    "y": 1158
+                },
+                {
+                    "x": 90,
+                    "y": 1158
+                }
+            ],
+            "text": "The 6,180 dwt Iver Balance loaded a cargo from Cadiz,\nSpain, for discharge into Oran, Algeria, on 30 September,\nwhile the 7,066 dwt Herbania loaded a cargo from Huelva for\ndischarge into Ghazaouet, Algeria, by 29 September."
+        },
+        {
+            "element_id": 8,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 102,
+                    "y": 1182
+                },
+                {
+                    "x": 461,
+                    "y": 1182
+                },
+                {
+                    "x": 461,
+                    "y": 1205
+                },
+                {
+                    "x": 102,
+                    "y": 1205
+                }
+            ],
+            "text": "Waterborne markets, differential to HSFO"
+        },
+        {
+            "element_id": 9,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 93,
+                    "y": 1220
+                },
+                {
+                    "x": 600,
+                    "y": 1220
+                },
+                {
+                    "x": 600,
+                    "y": 1555
+                },
+                {
+                    "x": 93,
+                    "y": 1555
+                }
+            ],
+            "text": "<figure><img id='9' style='font-size:14px' alt=\"Rotterdam -- Spain\nItaly -- Greece\nIvory Coast\n150\n100\n50\n0\n23 Oct 20 19 Feb 21 11 Jun 21 1 Oct 21\" data-coord=\"top-left:(93,1220); bottom-right:(600,1555)\" /></figure>"
+        },
+        {
+            "element_id": 10,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 569,
+                    "y": 1182
+                },
+                {
+                    "x": 598,
+                    "y": 1182
+                },
+                {
+                    "x": 598,
+                    "y": 1203
+                },
+                {
+                    "x": 569,
+                    "y": 1203
+                }
+            ],
+            "text": "$/t"
+        },
+        {
+            "element_id": 11,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 635,
+                    "y": 862
+                },
+                {
+                    "x": 1137,
+                    "y": 862
+                },
+                {
+                    "x": 1137,
+                    "y": 914
+                },
+                {
+                    "x": 635,
+                    "y": 914
+                }
+            ],
+            "text": "The 6,586 dwt Iver Bitumen loaded a cargo from Huelva\ninto Tenerife in the Canary Islands on 1 October."
+        },
+        {
+            "element_id": 12,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 630,
+                    "y": 935
+                },
+                {
+                    "x": 1148,
+                    "y": 935
+                },
+                {
+                    "x": 1148,
+                    "y": 1195
+                },
+                {
+                    "x": 630,
+                    "y": 1195
+                }
+            ],
+            "text": "<table id='12' style='font-size:14px'><tr><td colspan=\"3\">Europe and Africa cargo export differentials to HSFO</td><td>$/t</td></tr><tr><td></td><td>Low</td><td>High</td><td>士</td></tr><tr><td>Mediterranean, basis Augusta</td><td>+11.33</td><td>+16.33</td><td>+0.33</td></tr><tr><td>Rotterdam, Netherlands</td><td>+25.00</td><td>+30.00</td><td>-2.50</td></tr><tr><td>Baltic</td><td>+18.00</td><td>+22.00</td><td>-2.50</td></tr><tr><td>Spain</td><td>+20.00</td><td>+25.00</td><td>nc</td></tr><tr><td>Italy</td><td>+15.00</td><td>+20.00</td><td>nc</td></tr><tr><td>Greece</td><td>+15.00</td><td>+20.00</td><td>nc</td></tr><tr><td>Ivory Coast</td><td>+113.00</td><td>+117.00</td><td>nc</td></tr></table>"
+        },
+        {
+            "element_id": 13,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 631,
+                    "y": 1225
+                },
+                {
+                    "x": 1147,
+                    "y": 1225
+                },
+                {
+                    "x": 1147,
+                    "y": 1543
+                },
+                {
+                    "x": 631,
+                    "y": 1543
+                }
+            ],
+            "text": "<table id='13' style='font-size:14px'><tr><td colspan=\"4\">Europe and Africa cargo export differentials to crude</td></tr><tr><td></td><td>Differential to Ice Brent $/t</td><td>Differential to Ice Brent $/bl</td><td>±</td></tr><tr><td>Mediterranean, basis Augusta</td><td>-143.29</td><td>-5.82</td><td>+0.27</td></tr><tr><td>Rotterdam, Netherlands</td><td>-130.97</td><td>-3.83</td><td>-0.05</td></tr><tr><td>Baltic</td><td>-138.47</td><td>-5.04</td><td>-0.05</td></tr><tr><td>Spain</td><td>-134.62</td><td>-4.42</td><td>+0.22</td></tr><tr><td>Italy</td><td>-139.62</td><td>-5.231</td><td>+0.21</td></tr><tr><td>Greece</td><td>-139.62</td><td>-5.23</td><td>+0.21</td></tr><tr><td>Albania</td><td>-169.62</td><td>-10.09</td><td>+0.22</td></tr><tr><td>Ivory Coast</td><td>-42.12</td><td>10.57</td><td>+0.22</td></tr><tr><td colspan=\"4\">Bitumen conversion factor t/bl 6.17 Ice Brent conversion bl/t 7.53</td></tr></table>"
+        },
+        {
+            "element_id": 14,
+            "type": "paragraph",
+            "bounding_box": [
+                {
+                    "x": 570,
+                    "y": 1649
+                },
+                {
+                    "x": 671,
+                    "y": 1649
+                },
+                {
+                    "x": 671,
+                    "y": 1671
+                },
+                {
+                    "x": 570,
+                    "y": 1671
+                }
+            ],
+            "text": "Page 2 of 22"
+        }
+    ]
+}

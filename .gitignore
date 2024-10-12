@@ -2,3 +2,4 @@
 rag-for-paper/*
 datasets/*
 parsed_pages/*
+*.json

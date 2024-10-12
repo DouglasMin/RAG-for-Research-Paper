@@ -1,0 +1,524 @@
+[
+  {
+    "id": "1c9cc3de-5d69-4213-a808-f4a20d48c769",
+    "page": 1,
+    "type": "heading",
+    "bounding_box": [
+      {
+        "x": 205,
+        "y": 183
+      },
+      {
+        "x": 333,
+        "y": 183
+      },
+      {
+        "x": 333,
+        "y": 227
+      },
+      {
+        "x": 205,
+        "y": 227
+      }
+    ],
+    "html": "<h1 id='0' style='font-size:20px'>argus</h1>",
+    "text": "argus"
+  },
+  {
+    "id": "21ee1aac-981f-4d61-8ad3-c5b90a988960",
+    "page": 1,
+    "type": "subheading",
+    "bounding_box": [
+      {
+        "x": 86,
+        "y": 260
+      },
+      {
+        "x": 258,
+        "y": 260
+      },
+      {
+        "x": 258,
+        "y": 285
+      },
+      {
+        "x": 86,
+        "y": 285
+      }
+    ],
+    "html": "<p id='1' data-category='paragraph' style='font-size:18px'>argusmedia.com</p>",
+    "text": "argusmedia.com"
+  },
+  {
+    "id": "b4d5aafe-75dd-4534-9b1e-a412a107b28e",
+    "page": 1,
+    "type": "heading",
+    "bounding_box": [
+      {
+        "x": 815,
+        "y": 154
+      },
+      {
+        "x": 1147,
+        "y": 154
+      },
+      {
+        "x": 1147,
+        "y": 208
+      },
+      {
+        "x": 815,
+        "y": 208
+      }
+    ],
+    "html": "<br><h1 id='2' style='font-size:22px'>Argus Bitumen</h1>",
+    "text": "Argus Bitumen"
+  },
+  {
+    "id": "c1be05ae-9418-436a-8c84-51ddc9abbf4d",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 397,
+        "y": 218
+      },
+      {
+        "x": 1151,
+        "y": 218
+      },
+      {
+        "x": 1151,
+        "y": 273
+      },
+      {
+        "x": 397,
+        "y": 273
+      }
+    ],
+    "html": "<br><p id='3' data-category='paragraph' style='font-size:20px'>Europe, Africa, Middle East and Asia-Pacific prices and commentary<br>Incorporating Argus Asphalt Report</p>",
+    "text": "Europe, Africa, Middle East and Asia-Pacific prices and commentary\nIncorporating Argus Asphalt Report"
+  },
+  {
+    "id": "5524cbcf-1699-4904-915e-630e65ac3c00",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 779,
+        "y": 283
+      },
+      {
+        "x": 1150,
+        "y": 283
+      },
+      {
+        "x": 1150,
+        "y": 310
+      },
+      {
+        "x": 779,
+        "y": 310
+      }
+    ],
+    "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>Issue 21-39  Friday 1 October 2021</p>",
+    "text": "Issue 21-39  Friday 1 October 2021"
+  },
+  {
+    "id": "68759d58-9314-4c4f-8ad8-d6cf4faaeb4e",
+    "page": 1,
+    "type": "subheading",
+    "bounding_box": [
+      {
+        "x": 90,
+        "y": 391
+      },
+      {
+        "x": 202,
+        "y": 391
+      },
+      {
+        "x": 202,
+        "y": 417
+      },
+      {
+        "x": 90,
+        "y": 417
+      }
+    ],
+    "html": "<p id='5' data-category='paragraph' style='font-size:18px'>SUMMARY</p>",
+    "text": "SUMMARY"
+  },
+  {
+    "id": "2bbf5516-a898-41ae-8929-b023748a21a3",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 89,
+        "y": 449
+      },
+      {
+        "x": 601,
+        "y": 449
+      },
+      {
+        "x": 601,
+        "y": 498
+      },
+      {
+        "x": 89,
+        "y": 498
+      }
+    ],
+    "html": "<p id='6' data-category='paragraph' style='font-size:16px'>Bitumen cargo values gained across Europe and Asia-Pacific,<br>boosted by a jump in crude and fuel oil values.</p>",
+    "text": "Bitumen cargo values gained across Europe and Asia-Pacific,\nboosted by a jump in crude and fuel oil values."
+  },
+  {
+    "id": "87040d58-4dcf-4e76-ba41-21632f71f1b9",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 89,
+        "y": 504
+      },
+      {
+        "x": 534,
+        "y": 504
+      },
+      {
+        "x": 534,
+        "y": 553
+      },
+      {
+        "x": 89,
+        "y": 553
+      }
+    ],
+    "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>Domestic truck prices across Europe also mostly<br>strengthened as October started.</p>",
+    "text": "Domestic truck prices across Europe also mostly\nstrengthened as October started."
+  },
+  {
+    "id": "14c49974-efb9-48d3-9dce-773d505db7f3",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 90,
+        "y": 558
+      },
+      {
+        "x": 608,
+        "y": 558
+      },
+      {
+        "x": 608,
+        "y": 689
+      },
+      {
+        "x": 90,
+        "y": 689
+      }
+    ],
+    "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>Cargo premiums to high-sulphur fuel oil (HSFO) in Rot-<br>terdam and the Baltics fell by $2-3/t, but outright values<br>continued to rise, while in the Mediterranean premium<br>values were steady on the week as refiners held their ground<br>amid rising outright values and slowing demand.</p>",
+    "text": "Cargo premiums to high-sulphur fuel oil (HSFO) in Rot-\nterdam and the Baltics fell by $2-3/t, but outright values\ncontinued to rise, while in the Mediterranean premium\nvalues were steady on the week as refiners held their ground\namid rising outright values and slowing demand."
+  },
+  {
+    "id": "4e3fca5e-1a1c-4403-a8d5-433e1ae0c95d",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 90,
+        "y": 693
+      },
+      {
+        "x": 600,
+        "y": 693
+      },
+      {
+        "x": 600,
+        "y": 769
+      },
+      {
+        "x": 90,
+        "y": 769
+      }
+    ],
+    "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>The Asia-Pacific bitumen market remained mostly firm,<br>despite the expected slowdown due to the week-long break<br>in China for Golden Week holidays.</p>",
+    "text": "The Asia-Pacific bitumen market remained mostly firm,\ndespite the expected slowdown due to the week-long break\nin China for Golden Week holidays."
+  },
+  {
+    "id": "c2ea4fe6-6f89-4750-8a07-33b56bb7b70b",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 90,
+        "y": 775
+      },
+      {
+        "x": 605,
+        "y": 775
+      },
+      {
+        "x": 605,
+        "y": 932
+      },
+      {
+        "x": 90,
+        "y": 932
+      }
+    ],
+    "html": "<br><p id='10' data-category='paragraph' style='font-size:16px'>The continued buoyancy in crude and HSFO prices in the<br>Asia-Pacific region pushed refiners to either seek price hikes<br>or mull production cuts at their units. Supply for October<br>was seen to be balanced in key export export locations like<br>Singapore and South Korea on the back of lower bitumen<br>production at some units.</p>",
+    "text": "The continued buoyancy in crude and HSFO prices in the\nAsia-Pacific region pushed refiners to either seek price hikes\nor mull production cuts at their units. Supply for October\nwas seen to be balanced in key export export locations like\nSingapore and South Korea on the back of lower bitumen\nproduction at some units."
+  },
+  {
+    "id": "a13b6624-75b9-4f58-ab28-3413ea1f7666",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 90,
+        "y": 936
+      },
+      {
+        "x": 601,
+        "y": 936
+      },
+      {
+        "x": 601,
+        "y": 1013
+      },
+      {
+        "x": 90,
+        "y": 1013
+      }
+    ],
+    "html": "<br><p id='11' data-category='paragraph' style='font-size:16px'>Demand is expected to improve from Vietnam, Australia,<br>China and India in the coming weeks supported by seasonal<br>pick-up or the easing of pandemic-related restrictions.</p>",
+    "text": "Demand is expected to improve from Vietnam, Australia,\nChina and India in the coming weeks supported by seasonal\npick-up or the easing of pandemic-related restrictions."
+  },
+  {
+    "id": "7ab34252-faab-4698-a209-42c52a42e25d",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 90,
+        "y": 1016
+      },
+      {
+        "x": 606,
+        "y": 1016
+      },
+      {
+        "x": 606,
+        "y": 1096
+      },
+      {
+        "x": 90,
+        "y": 1096
+      }
+    ],
+    "html": "<br><p id='12' data-category='paragraph' style='font-size:16px'>Bitumen prices shot up across sub-Saharan Africa, with<br>delivered cargo and drummed import prices racing higher, as<br>did domestic and export values for South African volumes.</p>",
+    "text": "Bitumen prices shot up across sub-Saharan Africa, with\ndelivered cargo and drummed import prices racing higher, as\ndid domestic and export values for South African volumes."
+  },
+  {
+    "id": "aa156a14-0632-4c79-b72f-11873f6ec2c4",
+    "page": 1,
+    "type": "subheading",
+    "bounding_box": [
+      {
+        "x": 628,
+        "y": 391
+      },
+      {
+        "x": 707,
+        "y": 391
+      },
+      {
+        "x": 707,
+        "y": 419
+      },
+      {
+        "x": 628,
+        "y": 419
+      }
+    ],
+    "html": "<br><p id='13' data-category='paragraph' style='font-size:18px'>PRICES</p>",
+    "text": "PRICES"
+  },
+  {
+    "id": "8457c01c-c400-4dd7-ba5c-2b14d5e02310",
+    "page": 1,
+    "type": "table",
+    "bounding_box": [
+      {
+        "x": 631,
+        "y": 455
+      },
+      {
+        "x": 1147,
+        "y": 455
+      },
+      {
+        "x": 1147,
+        "y": 1135
+      },
+      {
+        "x": 631,
+        "y": 1135
+      }
+    ],
+    "html": "<table id='14' style='font-size:14px'><tr><td colspan=\"5\">Bitumen prices at key locations, 25 Sep-1 Oct $/t</td></tr><tr><td></td><td></td><td>Low</td><td>High</td><td>土</td></tr><tr><td colspan=\"2\">Export cargo prices fob</td><td></td><td></td><td></td></tr><tr><td>Mediterranean</td><td></td><td>448.58</td><td>453.58</td><td>+20.93</td></tr><tr><td>Rotterdam</td><td></td><td>460.90</td><td>465.90</td><td>+18.95</td></tr><tr><td>Baltic</td><td></td><td>453.90</td><td>457.90</td><td>+18.95</td></tr><tr><td>Singapore</td><td></td><td>405</td><td>415</td><td>+5.00</td></tr><tr><td>South Korea</td><td></td><td>395</td><td>405</td><td>nc</td></tr><tr><td>Mideast Gulf</td><td></td><td>298</td><td>425</td><td>+5.50</td></tr><tr><td colspan=\"2\">Delivered cargo prices cfr</td><td></td><td></td><td></td></tr><tr><td>North Africa</td><td>Alexandria, bulk</td><td>486</td><td>496</td><td>+18.00</td></tr><tr><td>East Africa</td><td>Mombasa, drum</td><td>465</td><td>475</td><td>+26.00</td></tr><tr><td>West Africa</td><td>Lagos, bulk</td><td>600</td><td>610</td><td>+21.00</td></tr><tr><td>East China coast</td><td></td><td>425</td><td>475</td><td>+2.50</td></tr><tr><td>Domestic prices</td><td></td><td></td><td></td><td></td></tr><tr><td>Antwerp</td><td>ex-works</td><td>490</td><td>507</td><td>+20.50</td></tr><tr><td>Southern Germany</td><td>ex-works</td><td>431</td><td>449</td><td>+8.50</td></tr><tr><td>Hungary</td><td>ex-works</td><td>443</td><td>455</td><td>-3.00</td></tr><tr><td>Italy</td><td>ex-works inc tax</td><td>455</td><td>466</td><td>-3.00</td></tr><tr><td>Indonesia</td><td>ex-works</td><td>444</td><td>444</td><td>-1.00</td></tr><tr><td>Mumbai</td><td>bulk</td><td>544</td><td>594</td><td>+17.00</td></tr></table>"
+  },
+  {
+    "id": "b57df8c0-1faa-4710-91a6-1a6352bf15d3",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 103,
+        "y": 1234
+      },
+      {
+        "x": 533,
+        "y": 1234
+      },
+      {
+        "x": 533,
+        "y": 1259
+      },
+      {
+        "x": 103,
+        "y": 1259
+      }
+    ],
+    "html": "<p id='15' data-category='paragraph' style='font-size:16px'>Rotterdam domestic differential to HSFO barges</p>",
+    "text": "Rotterdam domestic differential to HSFO barges"
+  },
+  {
+    "id": "599bb93c-7dfb-4dba-9681-50b9d4a10780",
+    "page": 1,
+    "type": "subheading",
+    "bounding_box": [
+      {
+        "x": 569,
+        "y": 1233
+      },
+      {
+        "x": 599,
+        "y": 1233
+      },
+      {
+        "x": 599,
+        "y": 1256
+      },
+      {
+        "x": 569,
+        "y": 1256
+      }
+    ],
+    "html": "<br><p id='16' data-category='paragraph' style='font-size:18px'>$/t</p>",
+    "text": "$/t"
+  },
+  {
+    "id": "2c0c20a2-afd2-4b28-814b-a17f6a7a9555",
+    "page": 1,
+    "type": "figure",
+    "bounding_box": [
+      {
+        "x": 95,
+        "y": 1266
+      },
+      {
+        "x": 600,
+        "y": 1266
+      },
+      {
+        "x": 600,
+        "y": 1607
+      },
+      {
+        "x": 95,
+        "y": 1607
+      }
+    ],
+    "html": "<br><figure><img id='17' style='font-size:14px' alt=\"120\n110\n100\n90\n80\n70\n60\n50\n40\n22 Jan 16 Apr 9 Jul 1 Oct\" data-coord=\"top-left:(95,1266); bottom-right:(600,1607)\" /></figure>"
+  },
+  {
+    "id": "80889d1a-762a-48ce-975b-715a7a678f79",
+    "page": 1,
+    "type": "paragraph",
+    "bounding_box": [
+      {
+        "x": 89,
+        "y": 1648
+      },
+      {
+        "x": 507,
+        "y": 1648
+      },
+      {
+        "x": 507,
+        "y": 1700
+      },
+      {
+        "x": 89,
+        "y": 1700
+      }
+    ],
+    "html": "<p id='18' data-category='paragraph' style='font-size:14px'>Copyright Ⓒ 2021 Argus Media group<br>Licensed to: Shi Jia Lim, Argus Media Limited (London)</p>",
+    "text": "Copyright Ⓒ 2021 Argus Media group\nLicensed to: Shi Jia Lim, Argus Media Limited (London)"
+  },
+  {
+    "id": "8e812252-4a26-4bb4-8bb0-dfba71ac8663",
+    "page": 1,
+    "type": "subheading",
+    "bounding_box": [
+      {
+        "x": 628,
+        "y": 1312
+      },
+      {
+        "x": 748,
+        "y": 1312
+      },
+      {
+        "x": 748,
+        "y": 1337
+      },
+      {
+        "x": 628,
+        "y": 1337
+      }
+    ],
+    "html": "<br><p id='19' data-category='paragraph' style='font-size:18px'>CONTENTS</p>",
+    "text": "CONTENTS"
+  },
+  {
+    "id": "f865d53e-c7cc-416b-afd8-38c8c244278b",
+    "page": 1,
+    "type": "table",
+    "bounding_box": [
+      {
+        "x": 627,
+        "y": 1345
+      },
+      {
+        "x": 1153,
+        "y": 1345
+      },
+      {
+        "x": 1153,
+        "y": 1603
+      },
+      {
+        "x": 627,
+        "y": 1603
+      }
+    ],
+    "html": "<br><table id='20' style='font-size:16px'><tr><td>Key bitumen prices</td><td>1</td></tr><tr><td>Map of waterborne bitumen prices</td><td>2</td></tr><tr><td>Northwest and central Europe</td><td>3-5</td></tr><tr><td>Mediterranean</td><td>6-8</td></tr><tr><td>Sub-Saharan Africa</td><td>9-11</td></tr><tr><td>Asia-Pacific and Middle East</td><td>12-17</td></tr><tr><td>Vessel tracking indications</td><td>18</td></tr><tr><td>Bitumen news</td><td>19-22</td></tr></table>"
+  }
+]

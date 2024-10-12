@@ -27,7 +27,7 @@ documents = SimpleDirectoryReader(
 ).load_data()
 
 # 각 페이지별로 Markdown 파일로 저장
-output_dir = "parsed_pages40"
+output_dir = "parsed_pages2"
 os.makedirs(output_dir, exist_ok=True)
 
 def remove_headers_and_footers(text):
